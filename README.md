@@ -14,10 +14,14 @@ Created multiple choice quiz with C language in Linux environment
 
 **Computer Science Related Courses**	
 Data Structures
-Algorithm Design/Problem Solving 		
-Object Oriented Programming with C++		 					
+
+Algorithm Design/Problem Solving 
+Object Oriented Programming with C++
+
 Discrete Structure for Computer Science 
-Assembly Language 				
+
+Assembly Language 	
+
 Visual Basic
 
 **Computer Programming IDE & Software**	

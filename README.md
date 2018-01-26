@@ -6,8 +6,8 @@
 * Started learning android development using android studio
 
 Projects:
-	* Organized data and calculations using Visual Basic on Visual Studio
-	* Created multiple choice quiz with C language in Linux environment
+* Organized data and calculations using Visual Basic on Visual Studio
+* Created multiple choice quiz with C language in Linux environment
 
 **Computer Science Related Courses**	
 * Data Structures
@@ -18,6 +18,7 @@ Projects:
 * Visual Basic
 
 **Computer Programming IDE & Software**	
+
 Visual Studio, Eclipse, CodeBlocks; WinSCP; Linux environment; 
 				     					      
 **Computer Skills**	 

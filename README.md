@@ -5,7 +5,7 @@
 * C/C++ Language experience
 * Started learning android development using android studio
 
-Projects:
+  Projects:
 * Organized data and calculations using Visual Basic on Visual Studio
 * Created multiple choice quiz with C language in Linux environment
 

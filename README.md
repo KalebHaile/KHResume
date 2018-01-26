@@ -13,9 +13,9 @@ Organized data and calculations using Visual Basic on Visual Studio
 Created multiple choice quiz with C language in Linux environment
 
 **Computer Science Related Courses**	
-* Data Structures
-* Algorithm Design/Problem Solving 
-* Object Oriented Programming with C++
+1. Data Structures
+1. Algorithm Design/Problem Solving 
+1. Object Oriented Programming with C++
 
 Discrete Structure for Computer Science 
 

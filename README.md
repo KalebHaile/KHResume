@@ -24,7 +24,7 @@ Visual Studio, Eclipse, CodeBlocks; WinSCP; Linux environment;
 **Computer Skills**	 
 * Operated Linux environment 
 * Use WinSCP on Windows
-* Troubleshooting 
+* Troubleshooting  
 
 
 github.com/KalebHaile
